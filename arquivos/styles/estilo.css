@@ -68,6 +68,7 @@ input[type="password"] {
   font-size: 18px;
   border-radius: 20px;
   border-bottom: 5px #fb2525 outset;
+  transition: 1s;
 }
 
 .loginbox input[type="button"]:hover {
@@ -75,6 +76,7 @@ input[type="password"] {
   background: #e49c01;
   color: #000;
   border-bottom: 5px #e49c01 outset;
+  letter-spacing: 2px;
 }
 
 .loginbox a {
