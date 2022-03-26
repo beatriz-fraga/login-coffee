@@ -68,7 +68,7 @@ input[type="password"] {
   font-size: 18px;
   border-radius: 20px;
   border-bottom: 5px #fb2525 outset;
-  transition: 1s;
+  transition: 0.5s;
 }
 
 .loginbox input[type="button"]:hover {
